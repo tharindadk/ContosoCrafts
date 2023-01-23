@@ -21,4 +21,5 @@ This web application has a 5-star rating system to rate each craft.
 
 ### Providing an API to Retrieve Craft Details
 ![Edit Book Category](https://i.ibb.co/XbzZCz0/screencapture-contosocraftsbytharinda-azurewebsites-net-Products-2023-01-23-17-12-52d.png)<br>
-This web application offers a **public API** to retrieve crafts details. 
+This web application offers a **public API** to retrieve crafts details.<br>
+Public API URL: https://contosocraftsbytharinda.azurewebsites.net/Products
