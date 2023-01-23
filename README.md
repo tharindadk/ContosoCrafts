@@ -1,7 +1,7 @@
 # Contoso Crafts
 ![Contoso Crafts Web Application](https://i.ibb.co/TB3X4YD/screencapture-contosocraftsbytharinda-azurewebsites-net-2023-01-23-16-58-03d.png)
 ## Introduction
-*Contoso Crafts* is a web application created with ASP.NET. The main functionality of this web application is to view details and rate crafts of a online store. Click [here](https://contosocraftsbytharinda.azurewebsites.net/) to view a live preview of this web application.
+*Contoso Crafts* is a web application created with ASP.NET. The main functionality of this web application is to view details and rate crafts of an online store. Click [here](https://contosocraftsbytharinda.azurewebsites.net/) to view a live preview of this web application.
 
 ## Technologies
 
